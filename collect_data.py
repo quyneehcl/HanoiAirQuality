@@ -4,11 +4,11 @@ Source: Open-Meteo API (Weather Archive + Air Quality)
  
 Features
 --------
-Compulsory (5):
-  temperature, humidity, wind_speed, pressure, hour
+Compulsory (6):
+  temperature, humidity, wind_speed, pressure, hour, day_of_week
  
-Backup (5):
-  day_of_week, is_weekend, wind_direction, precipitation, cloud_cover
+Backup (4):
+  is_weekend, wind_direction, precipitation, cloud_cover
  
 Target:
   is_warning = 1 if AQI > 100 else 0
