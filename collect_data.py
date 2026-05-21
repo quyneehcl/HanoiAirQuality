@@ -25,9 +25,9 @@ from datetime import datetime, timedelta
 LAT = 21.0285   # Hanoi latitude
 LON = 105.8542  # Hanoi longitude
 
-# 6 months of hourly data (~4380 rows)
-END_DATE   = datetime.today().strftime("%Y-%m-%d")
-START_DATE = (datetime.today() - timedelta(days=180)).strftime("%Y-%m-%d")
+# 1 year of hourly data
+START_DATE = "2025-01-01"
+END_DATE   = "2025-12-31"
 
 OUTPUT_FILE = "hanoi_air_quality.csv"
 
