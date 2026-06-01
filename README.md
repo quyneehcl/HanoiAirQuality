@@ -64,6 +64,8 @@ https://nbviewer.org/github/quyneehcl/HanoiAirQuality
 
 ## References
 
-- Open-Meteo Weather Archive API
-- Open-Meteo Air Quality API
-- IQAir AQI Scale
+[1] Open-Meteo. (2025). *Open-Meteo Weather Archive and Air Quality API*. Licensed under CC BY 4.0. Available at: https://open-meteo.com
+
+[2] AQICN. *AQI Scale*. Available at: https://aqicn.org/scale/vn/
+
+[3] Nguyen, et al. (2024). *An exploration of meteorological effects on PM2.5 air quality in several provinces and cities in Vietnam*. Journal of Environmental Sciences, 145, 139–151. Available at: https://doi.org/10.1016/j.jes.2023.07.020
